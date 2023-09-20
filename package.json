@@ -26,6 +26,6 @@
     "regexparam": "^2.0.0"
   },
   "peerDependencies": {
-    "svelte": "^3.0.0"
+    "svelte": "^4.2.1"
   }
 }
